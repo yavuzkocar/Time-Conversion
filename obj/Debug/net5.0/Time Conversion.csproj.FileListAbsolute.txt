@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.exe
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.deps.json
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.json
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.dev.json
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.dll
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\ref\Time Conversion.dll
+D:\yazılım\pratikler\Time Conversion\bin\Debug\net5.0\Time Conversion.pdb
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfo.cs
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.dll
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\ref\Time Conversion.dll
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.pdb
+D:\yazılım\pratikler\Time Conversion\obj\Debug\net5.0\Time Conversion.genruntimeconfig.cache
